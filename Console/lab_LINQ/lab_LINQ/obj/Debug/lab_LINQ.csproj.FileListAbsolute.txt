@@ -1,0 +1,13 @@
+E:\21017\C#\lab_LINQ\lab_LINQ\bin\Debug\lab_LINQ.exe.config
+E:\21017\C#\lab_LINQ\lab_LINQ\bin\Debug\lab_LINQ.exe
+E:\21017\C#\lab_LINQ\lab_LINQ\bin\Debug\lab_LINQ.pdb
+E:\21017\C#\lab_LINQ\lab_LINQ\obj\Debug\lab_LINQ.csproj.CoreCompileInputs.cache
+E:\21017\C#\lab_LINQ\lab_LINQ\obj\Debug\lab_LINQ.exe
+E:\21017\C#\lab_LINQ\lab_LINQ\obj\Debug\lab_LINQ.pdb
+d:\code\C#\home\lab_LINQ\lab_LINQ\bin\Debug\lab_LINQ.exe.config
+d:\code\C#\home\lab_LINQ\lab_LINQ\bin\Debug\lab_LINQ.exe
+d:\code\C#\home\lab_LINQ\lab_LINQ\bin\Debug\lab_LINQ.pdb
+d:\code\C#\home\lab_LINQ\lab_LINQ\obj\Debug\lab_LINQ.csprojAssemblyReference.cache
+d:\code\C#\home\lab_LINQ\lab_LINQ\obj\Debug\lab_LINQ.csproj.CoreCompileInputs.cache
+d:\code\C#\home\lab_LINQ\lab_LINQ\obj\Debug\lab_LINQ.exe
+d:\code\C#\home\lab_LINQ\lab_LINQ\obj\Debug\lab_LINQ.pdb

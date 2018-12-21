@@ -1,0 +1,16 @@
+D:\code\C#\WinForms\Dol\Dol\bin\Release\Dol.exe.config
+D:\code\C#\WinForms\Dol\Dol\bin\Release\Dol.exe
+D:\code\C#\WinForms\Dol\Dol\bin\Release\Dol.pdb
+D:\code\C#\WinForms\Dol\Dol\bin\Release\en\Dol.resources.dll
+D:\code\C#\WinForms\Dol\Dol\obj\Release\Interop.ExcelTranslator.dll
+D:\code\C#\WinForms\Dol\Dol\obj\Release\Dol.csproj.ResolveComReference.cache
+D:\code\C#\WinForms\Dol\Dol\obj\Release\Dol.Form1.resources
+D:\code\C#\WinForms\Dol\Dol\obj\Release\Dol.Properties.Resources.resources
+D:\code\C#\WinForms\Dol\Dol\obj\Release\Dol.Form1.en.resources
+D:\code\C#\WinForms\Dol\Dol\obj\Release\Dol.csproj.GenerateResource.cache
+D:\code\C#\WinForms\Dol\Dol\obj\Release\Dol.csproj.CoreCompileInputs.cache
+D:\code\C#\WinForms\Dol\Dol\obj\Release\en\Dol.resources.dll
+D:\code\C#\WinForms\Dol\Dol\obj\Release\Dol.exe
+D:\code\C#\WinForms\Dol\Dol\obj\Release\Dol.pdb
+D:\code\C#\WinForms\Dol\Dol\obj\Release\Dol.csprojAssemblyReference.cache
+d:\code\C#\WinForms\Dol\Dol\obj\Release\Dol.Form2.resources

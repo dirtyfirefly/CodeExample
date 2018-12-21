@@ -1,0 +1,12 @@
+D:\code\C#\WinForms\home\home_1\home_1\bin\Debug\home_1.exe.config
+D:\code\C#\WinForms\home\home_1\home_1\bin\Debug\home_1.exe
+D:\code\C#\WinForms\home\home_1\home_1\bin\Debug\home_1.pdb
+D:\code\C#\WinForms\home\home_1\home_1\obj\Debug\home_1.csprojAssemblyReference.cache
+D:\code\C#\WinForms\home\home_1\home_1\obj\Debug\home_1.Form1.resources
+D:\code\C#\WinForms\home\home_1\home_1\obj\Debug\home_1.Properties.Resources.resources
+D:\code\C#\WinForms\home\home_1\home_1\obj\Debug\home_1.csproj.GenerateResource.cache
+D:\code\C#\WinForms\home\home_1\home_1\obj\Debug\home_1.csproj.CoreCompileInputs.cache
+D:\code\C#\WinForms\home\home_1\home_1\obj\Debug\home_1.exe
+D:\code\C#\WinForms\home\home_1\home_1\obj\Debug\home_1.pdb
+D:\code\C#\WinForms\home\home_1\home_1\obj\Debug\home_1.Form2.resources
+D:\code\C#\WinForms\home\home_1\home_1\obj\Debug\home_1.Form3.resources

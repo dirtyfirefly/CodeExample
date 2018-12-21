@@ -1,0 +1,7 @@
+D:\code\C#\home\home_8_dop\home_8_dop\bin\Debug\home_8_dop.exe.config
+D:\code\C#\home\home_8_dop\home_8_dop\bin\Debug\home_8_dop.exe
+D:\code\C#\home\home_8_dop\home_8_dop\bin\Debug\home_8_dop.pdb
+D:\code\C#\home\home_8_dop\home_8_dop\obj\Debug\home_8_dop.csprojAssemblyReference.cache
+D:\code\C#\home\home_8_dop\home_8_dop\obj\Debug\home_8_dop.csproj.CoreCompileInputs.cache
+D:\code\C#\home\home_8_dop\home_8_dop\obj\Debug\home_8_dop.exe
+D:\code\C#\home\home_8_dop\home_8_dop\obj\Debug\home_8_dop.pdb

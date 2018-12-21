@@ -1,0 +1,7 @@
+D:\code\C#\home\home_10\home_10\obj\Debug\home_10.csprojAssemblyReference.cache
+D:\code\C#\home\home_10\home_10\obj\Debug\home_10.csproj.CoreCompileInputs.cache
+D:\code\C#\home\home_10\home_10\bin\Debug\home_10.exe.config
+D:\code\C#\home\home_10\home_10\bin\Debug\home_10.exe
+D:\code\C#\home\home_10\home_10\bin\Debug\home_10.pdb
+D:\code\C#\home\home_10\home_10\obj\Debug\home_10.exe
+D:\code\C#\home\home_10\home_10\obj\Debug\home_10.pdb

@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<ArrayOfSportsman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sportsman xsi:type="Gemnast">
+    <surname>Спепанов</surname>
+    <age>25</age>
+    <typeSport>Гимнастика</typeSport>
+    <ratCircl>5.5</ratCircl>
+    <ratBrus>7.3</ratBrus>
+    <ratJamp>3</ratJamp>
+  </Sportsman>
+  <Sportsman xsi:type="Swimer">
+    <surname>Котульный</surname>
+    <age>21</age>
+    <typeSport>Плавание</typeSport>
+    <rat>
+      <double>1.18</double>
+      <double>2.25</double>
+      <double>1.05</double>
+      <double>2.45</double>
+      <double>2.35</double>
+    </rat>
+  </Sportsman>
+  <Sportsman xsi:type="Gemnast">
+    <surname>Щучиков</surname>
+    <age>19</age>
+    <typeSport>Гимнастика</typeSport>
+    <ratCircl>5.2</ratCircl>
+    <ratBrus>7.5</ratBrus>
+    <ratJamp>3.3</ratJamp>
+  </Sportsman>
+  <Sportsman xsi:type="Swimer">
+    <surname>Конин</surname>
+    <age>18</age>
+    <typeSport>Плавание</typeSport>
+    <rat>
+      <double>2.23</double>
+      <double>3.23</double>
+      <double>2</double>
+      <double>3.55</double>
+      <double>3.45</double>
+    </rat>
+  </Sportsman>
+  <Sportsman xsi:type="Swimer">
+    <surname>Топкин</surname>
+    <age>18</age>
+    <typeSport>Плавание</typeSport>
+    <rat>
+      <double>2.18</double>
+      <double>3.25</double>
+      <double>2.05</double>
+      <double>3.45</double>
+      <double>3.45</double>
+    </rat>
+  </Sportsman>
+  <Sportsman xsi:type="Gemnast">
+    <surname>Роневская</surname>
+    <age>16</age>
+    <typeSport>Гимнастика</typeSport>
+    <ratCircl>6</ratCircl>
+    <ratBrus>7.9</ratBrus>
+    <ratJamp>8.3</ratJamp>
+  </Sportsman>
+</ArrayOfSportsman>
