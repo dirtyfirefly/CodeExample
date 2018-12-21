@@ -206,6 +206,7 @@ namespace Dol
                 Excel.Worksheet sheet = (Excel.Worksheet)ex.Worksheets.get_Item(3);
                 sheet.Cells[2, 3] = date.ToShortDateString();
                 sheet.Cells[3, 3] = rate;
+				ex.Close();
             }
             catch { }
         }
